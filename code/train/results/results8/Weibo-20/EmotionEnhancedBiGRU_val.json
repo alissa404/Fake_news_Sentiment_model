@@ -1,0 +1,43 @@
+{
+    "dataset": "val",
+    "samples": 1272,
+    "accuracy": 0.8522012578616353,
+    "classification_report": {
+        "fake": {
+            "precision": 0.8363636363636363,
+            "recall": 0.8734177215189873,
+            "f1-score": 0.8544891640866873,
+            "support": 632
+        },
+        "real": {
+            "precision": 0.869281045751634,
+            "recall": 0.83125,
+            "f1-score": 0.8498402555910544,
+            "support": 640
+        },
+        "micro avg": {
+            "precision": 0.8522012578616353,
+            "recall": 0.8522012578616353,
+            "f1-score": 0.8522012578616353,
+            "support": 1272
+        },
+        "macro avg": {
+            "precision": 0.8528223410576352,
+            "recall": 0.8523338607594937,
+            "f1-score": 0.8521647098388708,
+            "support": 1272
+        },
+        "weighted avg": {
+            "precision": 0.8529258549236352,
+            "recall": 0.8522012578616353,
+            "f1-score": 0.8521500906297649,
+            "support": 1272
+        },
+        "samples avg": {
+            "precision": 0.8522012578616353,
+            "recall": 0.8522012578616353,
+            "f1-score": 0.8522012578616353,
+            "support": 1272
+        }
+    }
+}
