@@ -1,6 +1,6 @@
 # Fake_news_Sentiment_model
 
-I build a fakenews detection model utilizing NN layers with sentiment features and attention. Improving the tranditional fake news model, our model is adapted from DEAN model and HAN model.
+I build a fakenews detection model utilizing Bidirectional LSTM model with sentiment features and attention. Improving the tranditional fake news model, our model is adapted from DEAN model and HAN model.
 
 To evaluate the effectiveness of each feature, we use quantitative analysis on each sentiment features. The result is shown below.
 
